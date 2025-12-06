@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Alex de la Calle 👋</h1>
   <p>
-    <strong>Computational Physicist & AI engineer based in Salamanca, Spain 🇪🇸</strong>
+    <strong>Computational Physicist & AI engineer based in Salamanca, Spain</strong>
   </p>
   <p>
     I specialize in computational physics, data science, and scientific software development. <br>
