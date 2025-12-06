@@ -40,11 +40,15 @@
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
+| **[DeepAmplitudeSwing](https://github.com/itsAlexNoir/DeepAmplitudeSwing)** | Neural network designed for the characterization of ultrashort laser pulses using deep learning architectures. | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 | **[POpSiCLE](https://github.com/itsAlexNoir/POpSiCLE)** | A library for calculating photoelectron spectra for grid-based solutions of the TDSE and TDDFT. | ![Fortran](https://img.shields.io/badge/-Fortran-734F96?style=flat-square&logo=fortran&logoColor=white) |
+| **[bovra](https://github.com/itsAlexNoir/bovra)** | A code for predicting time-series of traffic in different cities using deep learning models. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **[carmela_code](https://github.com/itsAlexNoir/carmela_code)** | Python library for solving the one-electron one-dimensional Time-Dependent Schrödinger Equation. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **[smoggy](https://github.com/itsAlexNoir/smoggy)** | Deep learning model implementation for predicting air quality from open data. | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 | **[babel](https://github.com/itsAlexNoir/babel)** | A Streamlit web app for managing and keeping records of a personal library. | ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
 | **[montecorvo](https://github.com/itsAlexNoir/montecorvo)** | FD grid-based code for obtaining electric field distributions in optical fibers. | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| **[fine-tune](https://github.com/itsAlexNoir/fine-tune)** | Fine-tuning experiments with neural networks and machine learning models. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **[tf_cnn](https://github.com/itsAlexNoir/tf_cnn)** | Convolutional Neural Network implementations using TensorFlow. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 <br>
 
