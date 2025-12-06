@@ -5,7 +5,7 @@
   </p>
   <p>
     I specialize in computational physics, data science, and scientific software development. <br>
-    My work bridges the gap between complex physical simulations and modern software solutions. In the lst years I have foxused in Artificial Intelligence, working with various types of Neural Networks.
+    My work bridges the gap between complex physical simulations and modern software solutions. In the last years I have focused in Artificial Intelligence, working with various types of Neural Networks.
   </p>
 
   <br>
@@ -48,7 +48,7 @@
 
 <br>
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsAlexNoir&show_icons=true&theme=minimal&hide_border=true&bg_color=00000000" alt="Alex's GitHub Stats" />
@@ -56,7 +56,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAlexNoir&layout=compact&theme=minimal&hide_border=true&bg_color=00000000" alt="Top Languages" />
 </div>
 
-<br>
+<br> -->
 
 <div align="center">
   <small>Thanks for visiting!</small>
