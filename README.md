@@ -40,7 +40,6 @@
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **[hiposim](https://github.com/itsAlexNoir/hiposim)** | Desktop mortgage simulator for house-hunting in Salamanca, Spain — solves loan amount/payment/term/rate, models real Spanish taxes (ITP/IVA/AJD), and compares listings by €/m². | ![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
 | **[Sinclair](https://github.com/itsAlexNoir/Sinclair)** | An LLM-powered agent for exploring local data files using natural language queries. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **[nabokovQA](https://github.com/itsAlexNoir/nabokovQA)** | A QA dataset built from Nabokov's literature-course questionnaires on *Madame Bovary* and *Bleak House*, used to assess RAG retrieval and answer accuracy. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **[cyclades](https://github.com/itsAlexNoir/cyclades)** | An ETL and graph-based retrieval pipeline for processing legal documents, with chunking and keyword extraction. | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
